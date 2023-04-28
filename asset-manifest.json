@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blazete/weather-app.git/static/css/main.fe1a1065.css",
+    "main.js": "/blazete/weather-app.git/static/js/main.6a086897.js",
+    "static/js/787.d9312eb8.chunk.js": "/blazete/weather-app.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/blazete/weather-app.git/index.html",
+    "main.fe1a1065.css.map": "/blazete/weather-app.git/static/css/main.fe1a1065.css.map",
+    "main.6a086897.js.map": "/blazete/weather-app.git/static/js/main.6a086897.js.map",
+    "787.d9312eb8.chunk.js.map": "/blazete/weather-app.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe1a1065.css",
+    "static/js/main.6a086897.js"
+  ]
+}
